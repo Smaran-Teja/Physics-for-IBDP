@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "511598585486",
+    "project_id": "physics-for-ibdp",
+    "storage_bucket": "physics-for-ibdp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511598585486:android:d990b7f96df426612c4bdf",
+        "android_client_info": {
+          "package_name": "com.smarantejap.physicsforibdp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511598585486-qhn8r92is3sgbirbcgl9k164ird5o811.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmWLVcgHYKIA9rNj9RpOV05nm0qyOV7RI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511598585486-qhn8r92is3sgbirbcgl9k164ird5o811.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
